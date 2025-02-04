@@ -1,0 +1,14 @@
+p {
+    container-type: block;
+    border: 5px solid black;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.lightgreen {
+    background-color: lightgreen
+}
+
+.lightblue  {
+    background-color: lightblue
+}
