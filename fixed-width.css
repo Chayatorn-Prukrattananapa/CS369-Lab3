@@ -1,5 +1,6 @@
 .container {
     width: 800px;
+    display: flex;
 }
 
 
@@ -7,6 +8,7 @@ p {
     border: 5px solid black;
     padding: 10px;
     font-size: 16px;
+    width: 25vh;
 }
 
 .lightgreen {
